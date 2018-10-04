@@ -1,0 +1,22 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: blue;
+}
+
+h2{
+  color: Green;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right{
+  width: 46vw;
+}
